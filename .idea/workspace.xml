@@ -11,12 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdc25780-c573-4c12-93da-378ea76d1751" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile.dev" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -62,8 +59,16 @@
       <option name="presentableId" value="Default" />
       <updated>1598189500649</updated>
       <workItem from="1598189502881" duration="1170000" />
-      <workItem from="1605260343326" duration="7748000" />
+      <workItem from="1605260343326" duration="9199000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1605272945564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605272945564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,11 +85,27 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="3267" y="692" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605260746524">
       <screen x="2560" y="371" width="1920" height="1040" />
     </state>
     <state x="3267" y="692" key="#com.intellij.fileTypes.FileTypeChooser/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605260746524" />
+    <state x="3145" y="459" key="CommitChangelistDialog2" timestamp="1605272944639">
+      <screen x="2560" y="371" width="1920" height="1040" />
+    </state>
+    <state x="3145" y="459" key="CommitChangelistDialog2/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605272944639" />
+    <state x="3300" y="645" key="FileChooserDialogImpl" timestamp="1605272871127">
+      <screen x="2560" y="371" width="1920" height="1040" />
+    </state>
+    <state x="3300" y="645" key="FileChooserDialogImpl/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605272871127" />
+    <state x="3112" y="623" key="Vcs.Push.Dialog.v2" timestamp="1605272967061">
+      <screen x="2560" y="371" width="1920" height="1040" />
+    </state>
+    <state x="3112" y="623" key="Vcs.Push.Dialog.v2/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605272967061" />
     <state x="3321" y="797" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605260764562">
       <screen x="2560" y="371" width="1920" height="1040" />
     </state>
