@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdc25780-c573-4c12-93da-378ea76d1751" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598189500649</updated>
       <workItem from="1598189502881" duration="1170000" />
-      <workItem from="1605260343326" duration="9199000" />
+      <workItem from="1605260343326" duration="9932000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1605272945564</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605272945564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add travis">
+      <created>1605274812620</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605274812620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,25 +94,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="add travis" />
+    <option name="LAST_COMMIT_MESSAGE" value="add travis" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3267" y="692" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605260746524">
       <screen x="2560" y="371" width="1920" height="1040" />
     </state>
     <state x="3267" y="692" key="#com.intellij.fileTypes.FileTypeChooser/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605260746524" />
-    <state x="3145" y="459" key="CommitChangelistDialog2" timestamp="1605272944639">
+    <state x="3145" y="459" key="CommitChangelistDialog2" timestamp="1605274811766">
       <screen x="2560" y="371" width="1920" height="1040" />
     </state>
-    <state x="3145" y="459" key="CommitChangelistDialog2/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605272944639" />
+    <state x="3145" y="459" key="CommitChangelistDialog2/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605274811766" />
     <state x="3300" y="645" key="FileChooserDialogImpl" timestamp="1605272871127">
       <screen x="2560" y="371" width="1920" height="1040" />
     </state>
     <state x="3300" y="645" key="FileChooserDialogImpl/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605272871127" />
-    <state x="3112" y="623" key="Vcs.Push.Dialog.v2" timestamp="1605272967061">
+    <state x="3112" y="623" key="Vcs.Push.Dialog.v2" timestamp="1605274817335">
       <screen x="2560" y="371" width="1920" height="1040" />
     </state>
-    <state x="3112" y="623" key="Vcs.Push.Dialog.v2/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605272967061" />
+    <state x="3112" y="623" key="Vcs.Push.Dialog.v2/2560.371.1920.1040/0.0.2560.1400@2560.371.1920.1040" timestamp="1605274817335" />
     <state x="3321" y="797" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605260764562">
       <screen x="2560" y="371" width="1920" height="1040" />
     </state>
