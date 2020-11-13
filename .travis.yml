@@ -6,3 +6,14 @@ before_install:
   - docker build -t keilla/docker-react -f Dockerfile.dev .
 script:
   - docker run -e CI=true keilla/docker-react yarn test -- --coverage
+deploy:
+  provder: elasticbeanstalk
+  region: "us-west-2"
+  name: "docker"
+  env: "Docker-env"
+  bucket_name: "elasticbeanstalk-us-west-2-11111"
+  bucket_path: "docker"
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
